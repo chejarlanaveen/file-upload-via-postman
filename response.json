@@ -1,0 +1,13 @@
+{
+    "message": "file is successfully uploaded",
+    "file": {
+        "fieldname": "file",
+        "originalname": "aimldl.png",
+        "encoding": "7bit",
+        "mimetype": "image/png",
+        "destination": "uploads",
+        "filename": "file-1712470102816.png",
+        "path": "uploads\\file-1712470102816.png",
+        "size": 85122
+    }
+}
